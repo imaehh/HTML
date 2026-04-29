@@ -1,0 +1,10 @@
+body{
+    font-family: 'Courier New', Courier, monospace; /*Fuente de la letra del body */
+    font-size: 20px; /*Tamaño de la fuente*/
+    margin: auto;
+    padding: 3px; /* Espacio entre parrafos*/
+    color: rgb(0, 0, 0);
+    text-align: center;
+    background-color: rgb(255, 255, 255);
+
+}
