@@ -1,0 +1,17 @@
+#Tabla1{
+    font-size: larger;
+    text-align: center;
+        margin: 5px 700px 5px 700px;
+}
+body{
+    text-align: center;
+}
+table, th, td {
+  border: 1px solid black;
+  border-collapse: collapse;
+}
+#Tabla2{
+    font-size: larger;
+    text-align: center;
+        margin: 5px 657px 5px 657px;
+}
