@@ -1,0 +1,77 @@
+body {
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 20px;
+    margin: 0;
+    text-align: center;
+    color: white;
+    background-color: rgb(0, 3, 90);
+}
+
+/*titulo*/
+h1, h2, h3 {
+    color: rgb(21, 177, 212);
+    font-weight: 400;
+}
+
+/*cabecera*/
+#cabecera {
+    background-image: url("imagenes/fondo.jpg");
+    background-size: cover;
+    background-position: center;
+    padding: 80px;
+}
+
+/*secciones*/
+#sobre, #portfolio, #experiencia {
+    background-color: #222;
+    margin: 20px;
+    padding: 20px;
+    border-radius: 10px;
+}
+
+/*contacto*/
+#contacto {
+    background-color: rgb(21, 177, 212);
+    color: rgb(0, 3, 90)v;
+    margin: 20px;
+    padding: 20px;
+    border-radius: 10px;
+}
+
+/*borde*/
+.contenedor {
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+}
+
+/*tarjeta*/
+.tarjeta {
+    background-color: #333;
+    padding: 15px;
+    width: 200px;
+    border-radius: 10px;
+    box-shadow: 0px 0px 10px rgb(0, 3, 90);
+}
+
+/*sobre mi*/
+.caja {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 20px;
+}
+
+/*botones*/
+button {
+    background-color: rgb(21, 177, 212);
+    border: none;
+    padding: 10px;
+    margin-top: 10px;
+}
+
+input {
+    padding: 8px;
+    margin: 5px;
+    width: 200px;
+}
